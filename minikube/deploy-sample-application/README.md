@@ -1,4 +1,4 @@
-# deploy-sample-application
+# Deploy-sample-application
 
 Follow the instructions after the Minikube cluster configurations are completed. We will deploy and make rolling update (i.e. app version).
 
